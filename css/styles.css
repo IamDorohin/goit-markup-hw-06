@@ -29,6 +29,14 @@ img {
     display: block;
 }
 
+a {
+    outline: none;
+}
+
+button {
+    outline: none;
+}
+
 .list {
     text-decoration: none;
     list-style: none;
